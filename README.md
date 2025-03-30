@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React/React Native App: Esperanza Animal (Hope Animal)
 
+Esperanza Animal is a full stack aplication with the goal of creating a high-impact web and mobile application to resolve the problem of animal abandonment in Latin America.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
